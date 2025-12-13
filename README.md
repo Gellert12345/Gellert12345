@@ -1,28 +1,28 @@
-👨‍💻 About me
+👨‍💻 About Me
 Computer science student from Hungary 🇭🇺
-Focused on building real, usable software — not just demos.
-Currently sharpening my skills across backend development, web technologies,
-and systems-oriented thinking, with an emphasis on clean architecture and logic.
-I have built and deployed a website commissioned by Future Green Technology,
-available at:
+I focus on building real, usable software, not toy demos.
+My interests are backend development, web technologies, and systems-level thinking, with an emphasis on clean architecture, logic, and maintainability.
+I’ve already delivered a real client project for Future Green Technology, including requirements handling, deployment, and production-like constraints:
 👉 https://szerverteszt.onrender.com
-The project involved real client requirements, deployment, and production-like constraints.
-🚀 Tech I work with and learn
-🐍 Python – scripting, problem-solving, prototyping, backend fundamentals
-🔷 C# – object-oriented design, application structure
-🌐 Node.js & JavaScript – backend services, asynchronous logic
+🚀 Tech Stack
+Backend & Logic
+🐍 Python – scripting, prototyping, backend fundamentals
+🔷 C# – object-oriented design, structured applications
+🌐 Node.js / JavaScript – asynchronous backend services
+Data & Web
 🗄 MySQL – relational databases, queries, data modeling
-🎨 HTML & CSS – semantic structure, responsive layouts
+🎨 HTML & CSS – semantic markup, responsive layouts
 🧩 Bootstrap – fast, consistent UI development
-🧠 What I care about
-✨ writing clear, readable, maintainable code
-🔍 understanding how things work under the hood
-🛠 building real projects instead of just following tutorials
-💻 Development setup
-Daily driver: MacBook Air M2 (13.6", 16 GB unified memory)
-Home server:
+🧠 Engineering Mindset
+✨ Clean, readable, maintainable code
+🔍 Understanding systems under the hood
+🛠 Learning by building real projects, not just tutorials
+💻 Development Setup
+Daily driver
+MacBook Air M2 (13.6", 16 GB unified memory)
+Home server
 Intel i7-4790
 20 GB RAM
 Radeon Pro WX 5100 (8 GB VRAM)
 256 GB SSD
-Web projects and services are planned to run on my own self-hosted server.
+Self-hosted infrastructure for web projects and backend services.
