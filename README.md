@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👨‍💻 About me
 
-<!--
-**Gellert12345/Gellert12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student from Hungary 🇭🇺  
+Focused on building real, usable software — not just demos.
 
-Here are some ideas to get you started:
+Currently sharpening my skills across backend development, web technologies,
+and systems-oriented thinking, with an emphasis on clean architecture and logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech I work with and learn
+
+- 🐍 **Python** – scripting, problem-solving, prototyping, backend fundamentals  
+- 🔷 **C#** – object-oriented design, application structure  
+- 🌐 **Node.js & JavaScript** – backend services, asynchronous logic  
+- 🗄 **MySQL** – relational databases, queries, data modeling  
+- 🎨 **HTML & CSS** – semantic structure, responsive layouts  
+- 🧩 **Bootstrap** – fast, consistent UI development
+
+### 🧠 What I care about
+
+- ✨ writing clear, readable, maintainable code  
+- 🔍 understanding how things work under the hood  
+- 🛠 building real projects instead of just following tutorials
