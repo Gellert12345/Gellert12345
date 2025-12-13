@@ -13,10 +13,21 @@ and systems-oriented thinking, with an emphasis on clean architecture and logic.
 - 🌐 **Node.js & JavaScript** – backend services, asynchronous logic  
 - 🗄 **MySQL** – relational databases, queries, data modeling  
 - 🎨 **HTML & CSS** – semantic structure, responsive layouts  
-- 🧩 **Bootstrap** – fast, consistent UI development
+- 🧩 **Bootstrap** – fast, consistent UI development  
 
 ### 🧠 What I care about
 
 - ✨ writing clear, readable, maintainable code  
 - 🔍 understanding how things work under the hood  
-- 🛠 building real projects instead of just following tutorials
+- 🛠 building real projects instead of just following tutorials  
+
+### 💻 Development setup
+
+-- **Daily driver:** MacBook Air M2 (13.6", 16 GB unified memory)  
+- **Home server:**  
+  - Intel i7-4790  
+  - 20 GB RAM  
+  - Radeon Pro WX 5100 (8 GB VRAM)  
+  - 256 GB SSD  
+
+Web projects and services are planned to run on my own self-hosted server.
