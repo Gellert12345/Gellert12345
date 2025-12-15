@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Computer science student from Hungary 🇭🇺
+17 years old Computer science student from Hungary 🇭🇺
 
 I focus on building real, usable software — not toy demos.
 
