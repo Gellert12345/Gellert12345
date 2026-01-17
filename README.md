@@ -10,8 +10,9 @@ with a strong emphasis on clean architecture, logic, and long-term maintainabili
 I’ve already delivered a real client project for **Future Green Technology**,
 covering requirements handling, deployment, and production-like constraints:
 
-👉 https://szerverteszt.onrender.com
-#demo weather app
+👉 https://szerverteszt.onrender.com  
+
+demo weather app
 👉 https://weatherapp-a1bj.onrender.com
 
 
