@@ -16,7 +16,7 @@ demo weather app:
 
 👉 https://weatherapp-a1bj.onrender.com  
   
-demo qr code generator:  
+demo qr code generator v1(without design):  
   
 👉https://qrcode-gen-z6tl.onrender.com
 
