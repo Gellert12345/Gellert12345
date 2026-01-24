@@ -14,7 +14,11 @@ covering requirements handling, deployment, and production-like constraints:
 
 demo weather app:  
 
-👉 https://weatherapp-a1bj.onrender.com
+👉 https://weatherapp-a1bj.onrender.com  
+  
+demo qr code generator:  
+  
+👉https://qrcode-gen-z6tl.onrender.com
 
 
 ## 🚀 Tech Stack
