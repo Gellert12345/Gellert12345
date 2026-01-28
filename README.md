@@ -51,6 +51,6 @@ demo qr code generator v1(without design):
 - **Intel i7-4790**
 - 20 GB RAM
 - Radeon Pro WX 5100 (8 GB VRAM)
-- 256 GB SSD
+- 1TB wd blue hdd
 
 Self-hosted infrastructure for web projects and backend services.
