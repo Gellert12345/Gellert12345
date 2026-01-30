@@ -47,7 +47,8 @@ demo qr code generator v1(without design):
   - 13.6"
   - 16 GB unified memory
 
-### Home Server
+### Home Server  
+- OS: True Nas
 - **Intel i7-4790**
 - 20 GB RAM
 - Radeon Pro WX 5100 (8 GB VRAM)
