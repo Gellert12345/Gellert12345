@@ -46,6 +46,7 @@ demo qr code generator v1(without design):
 - **MacBook Air M2**
   - 13.6"
   - 16 GB unified memory
+  - 256gb ssd
 
 ### Home Server  
 - OS: True Nas
