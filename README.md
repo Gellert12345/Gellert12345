@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=34&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=KECSK%C3%89S+GELL%C3%89RT;Software+Engineer+%7C+17+y%2Fo;Architecting+Scalable+Systems;Building+the+3D+Web+(Three.js);Logic.+Performance.+Code." alt="Typing SVG" />
-</div>
+</p>
 
 <div align="center">
   <h3>🇭🇺 Hungary based Full-Stack Developer & Systems Enthusiast</h3>
@@ -18,25 +18,21 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gellert12345&show_icons=true&theme=midnight-dusk&hide_border=true&count_private=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gellert12345&layout=compact&theme=midnight-dusk&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-</div>
+</p>
 
 ---
 
 ## ⚡ The Engineering Arsenal
 
-<div align="center">
-
 | **Core Logic & Backend** | **3D Web & Frontend** | **Infrastructure & DevOps** |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/TrueNAS-000000?style=for-the-badge&logo=truenas&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
-
-</div>
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![TrueNAS](https://img.shields.io/badge/TrueNAS-000000?style=for-the-badge&logo=truenas&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
@@ -56,8 +52,6 @@ I specialize in moving from *concept* to *deployment* under strict constraints.
 
 > *"Software is only as good as the hardware it runs on. I manage my own infrastructure."*
 
-<div align="center">
-
 <details>
 <summary><b>🍏 MOBILE COMMAND: MacBook Air M2</b> (Click to Inspect)</summary>
 <br>
@@ -76,10 +70,8 @@ I specialize in moving from *concept* to *deployment* under strict constraints.
 </ul>
 </details>
 
-</div>
-
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
-</div>
+</p>
