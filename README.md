@@ -1,4 +1,4 @@
-# ⚡ Hello, I'm [A Neved]! 🇭🇺
+# ⚡ Hello, I'm Kecskés Gellért! 🇭🇺
 
 ### 🚀 Software Engineer Student & 3D Web Enthusiast
 I don't just build demos—I build **scalable, production-ready software**. My approach combines backend logic with modern, interactive frontend technologies.
@@ -75,4 +75,4 @@ Right now, I am diving deep into **Three.js** to bridge the gap between traditio
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gellertkecskes@gmail.com)
