@@ -1,58 +1,78 @@
-# 👨‍💻 About Me
+# ⚡ Hello, I'm [A Neved]! 🇭🇺
 
-17 years old Computer science student from Hungary 🇭🇺
+### 🚀 Software Engineer Student & 3D Web Enthusiast
+I don't just build demos—I build **scalable, production-ready software**. My approach combines backend logic with modern, interactive frontend technologies.
 
-I focus on building real, usable software — not toy demos.
-
-My interests are backend development, web technologies, and systems-level thinking,
-with a strong emphasis on clean architecture, logic, and long-term maintainability.
-
-I’ve already delivered a real client project for **Future Green Technology**,
-covering requirements handling, deployment, and production-like constraints:
-
-👉 https://szerverteszt.onrender.com  
-
-demo weather app:  
-
-👉 https://weatherapp-a1bj.onrender.com  
-  
-demo qr code generator v1(without design):  
-  
-👉https://qrcode-gen-z6tl.onrender.com
-
-
-## 🚀 Tech Stack
-
-### Backend & Logic
-- 🐍 **Python** – scripting, prototyping, backend fundamentals
-- 🔷 **C#** – object-oriented design, structured applications
-- 🌐 **Node.js / JavaScript** – asynchronous backend services
-
-### Data & Web
-- 🗄 **MySQL** – relational databases, queries, data modeling
-- 🎨 **HTML & CSS** – semantic markup, responsive layouts
-- 🧩 **Bootstrap** – fast, consistent UI development
-
+---
 
 ## 🧠 Engineering Mindset
-- ✨ Clean, readable, maintainable code
-- 🔍 Understanding systems under the hood
-- 🛠 Learning by building real projects, not just tutorials
+- 🏗️ **Clean Architecture:** Readable and maintainable code is not a choice, it's a standard.
+- ⚙️ **Systems Thinking:** I love understanding what happens under the hood (OS, Servers, Networking).
+- 🛠️ **Real-World Focus:** Learning by shipping real projects to real users.
 
+---
 
-## 💻 Development Setup
+## 🎯 Current Focus: 3D Web & Interactive Experiences
+Right now, I am diving deep into **Three.js** to bridge the gap between traditional webshop functionality and immersive 3D experiences.
 
-### Daily Driver
-- **MacBook Air M2**
-  - 13.6"
-  - 16 GB unified memory
-  - 256gb ssd
+- 📐 **Three.js / WebGL** – Creating interactive 3D environments.
+- 🎨 **Spline** – Rapid 3D prototyping and integration.
+- ⚡ **Web Performance** – Optimizing 3D assets for the browser.
 
-### Home Server  
-- OS: True Nas
-- **Intel i7-4790**
-- 20 GB RAM
-- Radeon Pro WX 5100 (8 GB VRAM)
-- 1TB wd blue hdd
+---
 
-Self-hosted infrastructure for web projects and backend services.
+## 🛠️ Tech Stack
+
+### Backend & Logic
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Frontend & 3D
+<p align="left">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### Database & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📈 Real Projects
+- **Future Green Technology:** Full-stack client project with production constraints.
+  - [Live Site](https://szerverteszt.onrender.com)
+- **Weather App:** Real-time data fetching and processing.
+  - [Demo](https://weatherapp-a1bj.onrender.com)
+- **QR Generator v1:** Backend logic focus.
+  - [Demo](https://qrcode-gen-z6tl.onrender.com)
+
+---
+
+## 💻 Hardware Setup
+
+### 🍏 Daily Driver
+- **MacBook Air M2** (13.6", 16GB RAM, 256GB SSD) - *The Portable Dev Station*
+
+### 🏠 Home Server (Self-Hosted Infrastructure)
+- **OS:** TrueNAS
+- **CPU:** Intel i7-4790
+- **RAM:** 20 GB
+- **GPU:** Radeon Pro WX 5100 (8 GB VRAM)
+- **Storage:** 1TB WD Blue HDD
+- *Used for hosting web projects and backend services.*
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
