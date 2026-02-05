@@ -1,102 +1,85 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+%5BA+Neved%5D!+%F0%9F%91%8B;Building+Production+Software.;Exploring+the+3D+Web.;Systems.+Logic.+Clean+Code." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=34&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=KECSK%C3%89S+GELL%C3%89RT;Software+Engineer+%7C+17+y%2Fo;Architecting+Scalable+Systems;Building+the+3D+Web+(Three.js);Logic.+Performance.+Code." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🇭🇺 17 y/o Software Engineering Student & 3D Enthusiast</h3>
-  <p>I don't just write code. I build <b>systems</b>.</p>
+  <h3>🇭🇺 Hungary based Full-Stack Developer & Systems Enthusiast</h3>
+  <p><i>"I don't simply write code. I engineer reliable, production-grade digital infrastructure."</i></p>
 </div>
 
 <p align="center">
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=linkedin" alt="Contact Me" />
+  <a href="mailto:gellertkecskes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gellertkecskes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/View-Projects-green?style=for-the-badge&logo=github" alt="View Projects" />
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FELHASZNALONEV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FELHASZNALONEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gellert12345&show_icons=true&theme=midnight-dusk&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gellert12345&layout=compact&theme=midnight-dusk&hide_border=true&langs_count=6" height="160" alt="languages graph" />
 </div>
 
 ---
 
-## ⚡ The Arsenal (Tech Stack)
+## ⚡ The Engineering Arsenal
 
 <div align="center">
 
-### 🧠 Logic & Backend
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-### 🎨 Frontend & 3D (Current Focus)
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-### ⚙️ DevOps & Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/TrueNAS-000000?style=for-the-badge&logo=truenas&logoColor=white" />
+| **Core Logic & Backend** | **3D Web & Frontend** | **Infrastructure & DevOps** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/TrueNAS-000000?style=for-the-badge&logo=truenas&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Mission Critical Projects
 
-| Project | Description | Stack | Status |
+I specialize in moving from *concept* to *deployment* under strict constraints.
+
+| Project | Type | Architecture Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Future Green Technology** | 🏭 **Real Client Work.** Full-stack system handling production constraints. | `Python` `SQL` `Web` | 🟢 [**Live**](https://szerverteszt.onrender.com) |
-| **Weather App** | 🌦️ Real-time data fetching & processing engine. | `JS` `API` | 🟢 [**Demo**](https://weatherapp-a1bj.onrender.com) |
-| **QR Generator v1** | 🧩 Pure logic focus. Backend-heavy utility. | `Python` `Logic` | 🟡 [**Demo**](https://qrcode-gen-z6tl.onrender.com) |
+| **Future Green Technology** | 🏭 **Enterprise Client** | `Python` `SQL` `Render Cloud` | 🟢 [**Live Deployment**](https://szerverteszt.onrender.com) |
+| **Global Weather Engine** | 🌩️ **Real-time Data** | `JS` `REST API` `Async` | 🟢 [**System Demo**](https://weatherapp-a1bj.onrender.com) |
+| **QR Logic Generator** | 🧩 **Backend Utility** | `Python` `Encoding Algorithms` | 🟡 [**Prototype**](https://qrcode-gen-z6tl.onrender.com) |
 
 ---
 
-## 🕹️ Battle Station (Hardware)
+## ⚙️ The Lab (Hardware Setup)
 
-> *"I like understanding systems from the metal up."*
+> *"Software is only as good as the hardware it runs on. I manage my own infrastructure."*
+
+<div align="center">
 
 <details>
-<summary><b>💻 Daily Driver: MacBook Air M2</b> (Click to expand)</summary>
+<summary><b>🍏 MOBILE COMMAND: MacBook Air M2</b> (Click to Inspect)</summary>
 <br>
-<ul>
-  <li><b>Chip:</b> Apple M2 (The powerhouse)</li>
-  <li><b>Memory:</b> 16GB Unified (Critical for Dev)</li>
-  <li><b>Role:</b> Portable Dev Station & 3D Prototyping</li>
-</ul>
+<code>M2 Silicon Chip</code> • <code>16GB Unified Memory</code> • <code>Architecture & 3D Prototyping</code>
 </details>
 
 <details>
-<summary><b>🏠 The Home Lab: Custom Server</b> (Click to expand)</summary>
+<summary><b>🏢 SELF-HOSTED SERVER CLUSTER</b> (Click to Inspect)</summary>
 <br>
 <ul>
-  <li><b>OS:</b> TrueNAS (Self-hosted infrastructure)</li>
-  <li><b>CPU:</b> Intel i7-4790</li>
-  <li><b>GPU:</b> Radeon Pro WX 5100 (8GB VRAM)</li>
-  <li><b>Storage:</b> 1TB WD Blue HDD</li>
-  <li><b>Mission:</b> Hosting web projects, Docker containers & backend services.</li>
+  <li><b>OS:</b> TrueNAS Core (ZFS File System)</li>
+  <li><b>Compute:</b> Intel i7-4790 (8 Logical Cores)</li>
+  <li><b>Graphics:</b> Radeon Pro WX 5100 (8GB VRAM for Compute/Render)</li>
+  <li><b>Memory:</b> 20 GB DDR3</li>
+  <li><b>Role:</b> Docker Containers, Database Hosting, Continuous Deployment</li>
 </ul>
 </details>
+
+</div>
 
 ---
 
-<div align="center" id="contact">
-  <h3>Let's build something impossible.</h3>
-  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Shoot_me_a_mail-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%" />
 </div>
