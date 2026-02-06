@@ -65,7 +65,7 @@ I specialize in moving from *concept* to *deployment* under strict constraints.
   <li><b>OS:</b> TrueNAS Core (ZFS File System)</li>
   <li><b>Compute:</b> Intel i7-4790 (8 Logical Cores)</li>
   <li><b>Graphics:</b> Radeon Pro WX 5100 (8GB VRAM for Compute/Render)</li>
-  <li><b>Memory:</b> 20 GB DDR3</li>
+  <li><b>Memory:</b> 20 GB </li>
   <li><b>Role:</b> Docker Containers, Database Hosting, Continuous Deployment</li>
 </ul>
 </details>
