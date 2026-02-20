@@ -1,13 +1,3 @@
-Nem, így **nem jó egyben**.
-
-A gond:
-- Duplikáltad a teljes blokk elejét.
-- A ` ```txt` után nálad belecsúszott egy ` ```md`, ezért szétesik a Markdown.
-- Az első részben hiányzik a korrekt lezárás, mielőtt újraindul a tartalom.
-
-Használd ezt az egyetlen, tiszta verziót (ez már jó egyben):
-
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=KECSKÉS%20GELLÉRT&fontSize=58&fontColor=00FFB3&stroke=00FFB3&animation=twinkling&color=0:05060A,25:0A0F1C,50:101A33,75:0B1224,100:05060A" width="100%" />
@@ -107,4 +97,3 @@ From system design to deployment, my focus is predictable performance, maintaina
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:05060A,35:101A33,70:0B1224,100:05060A" width="100%" />
 
 </div>
-```
