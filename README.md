@@ -45,7 +45,7 @@ From system design to deployment, my focus is predictable performance, maintaina
 <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Currently%20Learning-Rust-00FFB3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Currently%20Learning-C++-00FFB3?style=for-the-badge" />
 
 </div>
 
