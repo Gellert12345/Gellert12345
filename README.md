@@ -1,71 +1,49 @@
 <div align="center">
 
 # Kecskés Gellért
+Backend Developer
 
-Backend-focused Software Developer
+JavaScript • TypeScript • Node.js • NestJS • Java • Spring Boot • PostgreSQL • MySQL
 
-[Email](mailto:gellertkecskes@gmail.com) • [GitHub](https://github.com/Gellert12345) • Hungary
+[Email](mailto:gellertkecskes@gmail.com) | [GitHub](https://github.com/Gellert12345) | Hungary
 
 </div>
 
-## About
+## Profile
 
-I am a backend-focused software developer with hands-on experience in building full-stack and server-side applications using modern JavaScript/TypeScript and Java ecosystems.
+Backend-focused developer with practical experience in API development, SQL databases, authentication, and full-stack application architecture.
 
-My main focus is backend development: designing REST APIs, working with relational databases, implementing authentication and authorization, and building maintainable applications with clean project structure and solid engineering fundamentals.
+I work primarily with Node.js, TypeScript, Java, Spring Boot, PostgreSQL, and MySQL, and I enjoy building reliable, structured applications with clear backend logic.
 
-I am currently looking for a junior backend or full-stack software engineering opportunity in remote or hybrid setup alongside university.
+Currently seeking a junior backend or full-stack developer opportunity in remote or hybrid environment.
 
-## Core Stack
+## Technical Skills
 
-- JavaScript, TypeScript
-- Node.js, Express.js, NestJS
-- Java, Spring Boot
-- PostgreSQL, MySQL, SQL
-- REST API design
-- Authentication and authorization
-- Docker
-- Testing fundamentals
-- Git and collaborative development workflows
+- Languages: JavaScript, TypeScript, Java, Python, SQL
+- Backend: Node.js, Express.js, NestJS, Spring Boot
+- Databases: PostgreSQL, MySQL
+- Concepts: REST APIs, authentication, authorization, relational data modeling
+- Tools: Docker, Git
+- Frontend: React, HTML, CSS
 
-## Featured Project
+## Selected Work
 
 ### LiveWebChat
-Full-stack MERN application with real-time, bi-directional communication using Socket.io.
+A full-stack MERN application with real-time communication powered by Socket.io.
 
-Key areas:
-- Real-time messaging architecture
-- Client-server event handling
-- Authentication flow
-- Full-stack application structure
-- Backend API integration
-- State synchronization in live communication scenarios
+Highlights:
+- Real-time bidirectional communication
+- Backend-driven messaging workflows
+- Full-stack architecture
+- Practical use of API integration and live state handling
 
-Repository:
-[LiveWebChat](https://github.com/Gellert12345)
+## Background
 
-## What I Focus On
-
-- Backend application development
-- REST API design and implementation
-- Database-driven systems
-- Scalable and maintainable project structure
-- Clean, readable code
-- Practical problem solving
-
-## Education and Certifications
-
-- Software Developer and Tester Technician qualification
-- ICDL, 7 modules
-- Ethical hacking training at Széchenyi István University
-
-## Career Goal
-
-My current goal is to start my career in backend development, where I can contribute in a real engineering environment, strengthen my production-level knowledge, and continue growing through practical software development work.
+- Software Developer and Tester Technician
+- ICDL certification
+- Ethical hacking training, Széchenyi István University
 
 ## Contact
 
-If you are hiring for a junior backend or full-stack developer role, feel free to reach out:
-
 - Email: [gellertkecskes@gmail.com](mailto:gellertkecskes@gmail.com)
-- GitHub: [github.com/Gellert12345](https://github.com/Gellert12345)
+- GitHub: [Gellert12345](https://github.com/Gellert12345)
