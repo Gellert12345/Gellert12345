@@ -37,7 +37,7 @@ Highlights:
 - Full-stack architecture
 - Practical use of API integration and live state handling
 
-## Background
+## Background in 2 years
 
 - Software Developer and Tester Technician
 - ICDL certification
