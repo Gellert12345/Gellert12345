@@ -39,9 +39,9 @@ Highlights:
 
 ## Background in 2 years
 
-- Software Developer and Tester Technician
-- ICDL certification
-- Ethical hacking training, Széchenyi István University
+- Software Developer and Tester Technician❌
+- ICDL certification✅
+- Ethical hacking training, Széchenyi István University❌
 
 ## Contact
 
